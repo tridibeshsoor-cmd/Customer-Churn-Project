@@ -17,3 +17,4 @@ The project will focus on explaining *why* the model makes its predictions. I wi
 ### 5. Goals & Deliverables
 * **Goal:** To create a model that can accurately predict customer churn.
 * **Deliverables:** The final Python code in a notebook and a summary of the key findings.
+this is a very good project
